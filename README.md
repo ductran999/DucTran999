@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Duc Tran 👋
 
-<!--
-**DucTran999/DucTran999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated software developer specializing in **Go**. I love working with backend technologies, optimizing performance, and exploring new tools. I also have experience with front-end development using **Vue.js**, though I’m still growing in that area.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- **Languages**: Go, Typescript
+- **Frameworks**: Echo (Go), Vue.js
+- **Databases**: PostgreSQL, Clickhouse, Redis
+- **DevOps Tools**: Docker, Kubernetes, Jenkins
+
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTran999&show_icons=true&theme=dracula)
+
+## 🌐 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran999&show_icon=true&theme=dracula&exclude_repo=WebQLSV)](https://github.com/DucTran999/github-readme-stats)
