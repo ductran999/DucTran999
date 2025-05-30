@@ -14,4 +14,4 @@ Welcome to my GitHub profile! 🚀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucTran999&show_icons=true&theme=dracula)
 
 ## 🌐 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran999&show_icon=true&theme=dracula&exclude_repo=WebQLSV)](https://github.com/DucTran999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran999&show_icon=true&theme=dracula&exclude_repo=WebQLSV,Code-PTIT-DSA-,AppControlWeight)](https://github.com/DucTran999/github-readme-stats)
