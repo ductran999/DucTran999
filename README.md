@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duc — <a href="https://github.com/ductran999">@ductran999</a></h1>
+<h1 align="center">Hi 👋, I'm Duc </h1>
 <h3 align="center">
 I'm a backend engineer on the road to building <strong>high-scale</strong>, <strong>secure</strong>, and <strong>resilient systems</strong>.
 </h3>
