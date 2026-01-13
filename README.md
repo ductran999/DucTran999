@@ -28,6 +28,6 @@ I'm a backend engineer on the road to building <strong>high-scale</strong>, <str
 ---
 
 ### 📝 My Latest Posts on Medium
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/0" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/1" alt="Recent Article 2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/2" alt="Recent Article 3"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ductran999/0" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ductran999/1" alt="Recent Article 2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ductran999/2" alt="Recent Article 3"></a>
