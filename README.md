@@ -19,14 +19,6 @@ I'm a backend engineer on the road to building <strong>high-scale</strong>, <str
 
 ---
 
-### 🌱 My Contributions So Far!
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ductran999&show_icons=true&theme=dracula" alt="ductran999's GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductran999&layout=compact&theme=dracula&hide=html,php,css" alt="ductran999's top languages" height="160"/>
-</p>
-
----
-
 ### 📝 My Latest Posts on Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ductran999/0" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tranaduc9x/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ductran999/1" alt="Recent Article 2"></a>
