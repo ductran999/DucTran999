@@ -1,10 +1,6 @@
 <h1 align="center"><a href="https://ductran999.github.io">Hi 👋, I'm Duc</a></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DucTran999&color=79C0FF&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/DucTran999">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=700&lines=🛠️+Curiosity+drives+mastery.;Go+%E2%80%A2+Kubernetes+%E2%80%A2+Distributed+Systems;Architecting+Cloud+Native+Infrastructure;Exploring+AI+Platform+Engineering" alt="Typing SVG" />
   </a>
